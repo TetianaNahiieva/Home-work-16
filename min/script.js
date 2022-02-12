@@ -63,7 +63,6 @@ if (age < 11) {
  
    
  // Запитай у користувача 2 числа і знайди найбільший спільний дільник.
- 
 let a = prompt('What one number ?', ); 
 let b = prompt('What two number ?', ); 
 let gcd;
