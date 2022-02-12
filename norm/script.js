@@ -1,4 +1,3 @@
-
 //1 Запитай у користувача п’ятирозрядне число і визначи, чи є воно паліндромом.
 let string = prompt('Name a dfive  digit number')
 const len = string.length;
